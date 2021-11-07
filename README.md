@@ -1,6 +1,6 @@
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
-
-## I am Frontend Developer
+ Hey! Nice to see you.
+Welcome to my page!
+I'm Duc, Frontend Developer from  HaNoi, VietNam
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
