@@ -1,6 +1,4 @@
-## Hi I'm Đức 🐯_face:
-
-![D.U.C](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+## Hi I'm Đức 🐯:
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
