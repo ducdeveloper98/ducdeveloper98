@@ -1,6 +1,6 @@
- Hey! Nice to see you.
-Welcome to my page!
-I'm Duc, Frontend Developer from  HaNoi, VietNam
+### Hey! Nice to see you.
+### Welcome to my page!
+### I'm Duc, Frontend Developer from  HaNoi, VietNam
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
